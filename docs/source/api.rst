@@ -11,7 +11,6 @@ API
    <div class="pt_retrieval" data-endpoint=""></div>
    <link href="css/in-d_mini.css" rel="stylesheet">
    <script src="js/in-d_mini.js"></script>
-   
    <div id="my-interactive-image"></div>
    <link href="css/test.css" rel="stylesheet">
    <link href="https://cdn.jsdelivr.net/npm/interactiveimagejs@2.7.1/dist/interactive-image.min.css" rel="stylesheet">
