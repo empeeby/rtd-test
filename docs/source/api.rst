@@ -9,8 +9,8 @@ API
 .. raw:: html
 
    <div class="pt_retrieval" data-endpoint=""></div>
-   <link href="css/in-d_mini.css" rel="stylesheet">
-   <script src="js/in-d_mini.js"></script>
+   <link href="https://raw.githubusercontent.com/empeeby/rtd-test/main/docs/source/_static/css/in-d_mini.css" rel="stylesheet">
+   <script src="https://raw.githubusercontent.com/empeeby/rtd-test/main/docs/source/_static/js/in-d_mini.js"></script>
    <!--
    <div id="my-interactive-image"></div>
    <link href="css/test.css" rel="stylesheet">
