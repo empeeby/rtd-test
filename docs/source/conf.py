@@ -40,8 +40,8 @@ html_static_path = ['_static']
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
 html_css_files = [
-    'https://cdn.jsdelivr.net/gh/empeeby/rtd-test@latest/docs/source/_static/css/in-d_mini.css',
+#     'https://cdn.jsdelivr.net/gh/empeeby/rtd-test@latest/docs/source/_static/css/in-d_mini.css',
 ]
 html_js_files = [
-    'https://cdn.jsdelivr.net/gh/empeeby/rtd-test@latest/docs/source/_static/js/in-d_mini.js',
+#     'https://cdn.jsdelivr.net/gh/empeeby/rtd-test@latest/docs/source/_static/js/in-d_mini.js',
 ]
