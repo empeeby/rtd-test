@@ -1,6 +1,8 @@
 in_d demo
 ===
 
+.. autosummary::
+   :toctree: generated
 
 .. raw:: html
 
