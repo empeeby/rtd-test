@@ -1,4 +1,4 @@
-in_d demo
+API
 ===
 
 .. autosummary::
